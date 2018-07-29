@@ -15,7 +15,7 @@ Mail me if u have issues with it---   iec2015076@iiita.ac.in
 
 Live website:https://subhamraj.github.io/FLAMES/
 
-File contents:
+#File contents:
 index.html - Webpage
 flames.js - Critical file (for the flames app itself)
 style.css - fonts and the way the webpage looks
