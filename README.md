@@ -1,7 +1,7 @@
 # CedFlames-from-subhamraj-
 You can freely modify the files as long as the original author agrees to it!
 Original flames by subhamraj (modified to have voice synthesis)
-
+# From the original author
 readme.md from subhamraj
 FLAMES game using javascript and html 
 (Specially for lovers)
